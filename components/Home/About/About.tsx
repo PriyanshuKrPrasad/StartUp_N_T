@@ -28,7 +28,7 @@ const About = () => {
             nulla voluptatem optio ducimus culpa. Nihil assumenda saepe iusto
             quae quidem!
           </p>
-          <button className="mt-5 text-[]#f68967] front-bold pb-1 border-b-2 border-[#f68967]">
+          <button className="mt-5 text - [#f68967] front-bold pb-1 border-b-2 border-[#f68967]">
             Learn More &#8594;
           </button>
           <div className="mt-8 border-l-2 border-gray-200">
